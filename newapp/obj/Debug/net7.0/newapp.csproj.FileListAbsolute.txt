@@ -1,0 +1,15 @@
+/workspaces/multistagedockerlab/newapp/bin/Debug/net7.0/newapp
+/workspaces/multistagedockerlab/newapp/bin/Debug/net7.0/newapp.deps.json
+/workspaces/multistagedockerlab/newapp/bin/Debug/net7.0/newapp.runtimeconfig.json
+/workspaces/multistagedockerlab/newapp/bin/Debug/net7.0/newapp.dll
+/workspaces/multistagedockerlab/newapp/bin/Debug/net7.0/newapp.pdb
+/workspaces/multistagedockerlab/newapp/obj/Debug/net7.0/newapp.csproj.AssemblyReference.cache
+/workspaces/multistagedockerlab/newapp/obj/Debug/net7.0/newapp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/multistagedockerlab/newapp/obj/Debug/net7.0/newapp.AssemblyInfoInputs.cache
+/workspaces/multistagedockerlab/newapp/obj/Debug/net7.0/newapp.AssemblyInfo.cs
+/workspaces/multistagedockerlab/newapp/obj/Debug/net7.0/newapp.csproj.CoreCompileInputs.cache
+/workspaces/multistagedockerlab/newapp/obj/Debug/net7.0/newapp.dll
+/workspaces/multistagedockerlab/newapp/obj/Debug/net7.0/refint/newapp.dll
+/workspaces/multistagedockerlab/newapp/obj/Debug/net7.0/newapp.pdb
+/workspaces/multistagedockerlab/newapp/obj/Debug/net7.0/newapp.genruntimeconfig.cache
+/workspaces/multistagedockerlab/newapp/obj/Debug/net7.0/ref/newapp.dll
